@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Amsterdam</a>. Amsterdam, The Netherlands  
+subtitle: <a href='https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html'>University of Amsterdam</a>. Amsterdam, The Netherlands  
 
 profile:
   align: right
