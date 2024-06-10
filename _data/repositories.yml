@@ -1,11 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - MatteoNulli
 
 github_repos:
-  - alshedivat/al-folio
+  # - alshedivat/al-folio
   - MatteoNulli/AI-Lab 
-  # - jekyll/jekyll
+  - karim-abdel/Explaining-RL-Decisions-with-Trajectories 
   # - jquery/jquery
   # - FortAwesome/Font-Awesome
   # - jpswalsh/academicons
