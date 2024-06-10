@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the University of Sydney for a Semester abroad 🏄
+During my bachelors I joined the University of Sydney for a Semester abroad, taking a [Deep Learning](https://www.sydney.edu.au/units/COMP5329) course 🏄
