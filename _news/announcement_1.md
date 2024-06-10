@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the University of Amsterdam to pursue the [Master in Aritifcial Intelligence](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html).
+I joined the University of Amsterdam to pursue the [Master in Aritifcial Intelligence](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html) 
