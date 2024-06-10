@@ -6,7 +6,7 @@ subtitle: <a href='https://www.uva.nl/shared-content/programmas/en/masters/artif
 
 profile:
   align: right
-  image: IMG_9754.jpg
+  image: IMG_9754.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1098 XH Science Park</p>
