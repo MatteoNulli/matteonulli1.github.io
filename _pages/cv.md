@@ -1,12 +1,11 @@
 ---
 layout: cv
-url: /assets/pdf/Matteo_Nulli_Resume_Academia.pdf
-# permalink: /cv/
+# url: /assets/pdf/Matteo_Nulli_Resume_Academia.pdf
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
 cv_pdf: Matteo_Nulli_Resume_Academia.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
+description: In this page you can download my update resume. The link is on the top right corner.
   sidebar: left
 ---
