@@ -1,7 +1,7 @@
 ---
 layout: cv
 # permalink: /cv/
-permalink: ./assets/pdf/Matteo_Nulli_Resume_Academia.pdf
+permalink: /Users/matteo/Documents/University_related/MatteoNulli.github.io/assets/pdf/Matteo_Nulli_Resume_Academia.pdf
 title: cv
 nav: true
 nav_order: 5
