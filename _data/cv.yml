@@ -1,12 +1,15 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, Italian, Spanish
+- Curriculum Vitae
+  url: /assets/pdf/Matteo_Nulli_Resume_Academia.pdf
+  
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Albert Einstein
+#     - name: Date of Birth
+#       value: 14th March 1879
+#     - name: Languages
+#       value: English, Italian, Spanish
 
 # - title: Education
 #   type: time_table

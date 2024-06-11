@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Matteo_Nulli_Resume_Academia.pdf
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
