@@ -1,6 +1,5 @@
 ---
 layout: cv
-# url: /assets/pdf/Matteo_Nulli_Resume_Academia.pdf
 permalink: /cv/
 title: cv
 nav: true
