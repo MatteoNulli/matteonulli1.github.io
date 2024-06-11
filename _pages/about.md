@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student @ <a href='https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html'>University of Amsterdam</a>
+subtitle: Student @ <a href='https://www.uva.nl'>University of Amsterdam</a>
 
 profile:
   align: right
