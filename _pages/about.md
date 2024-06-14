@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 
 📌 Hi, this is Matteo, a first year MSc student in [Artificial Intelligence](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html) at the University of Amsterdam, previously BSc in [Mathematical and Computing Sciences for AI](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/bachelor+of+science/mathematical+and+computing+sciences+for+artificial+intelligence/mathematical+and+computing+sciences+for+artificial+intelligence/) at Bocconi University and exchange student at the University of Sydney. 
 
-💭 My research interests lie in bridging the gap between Vision and Language within AI systems. Multimodal systems are capable of merging two of the most important aspects of how us humans learn and interact with the world around us. I strive to align the performance of Multimodal foundation models to that of LLMs.
+💭 My research interests lie in bridging the gap between Vision and Language within AI systems. Multimodal models are capable of merging two of the most important aspects of how us humans learn and interact with the world around us. I strive to align the performance of Multimodal foundation models to that of LLMs.
 
-📚 Currently I am taking the [Foundation Models](https://uvafomo.github.io) course. 
+📚 Currently I am taking the [Foundation Models](https://uvafomo.github.io) and [Deep Learning 2](https://uvadl2c.github.io) course. 
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
