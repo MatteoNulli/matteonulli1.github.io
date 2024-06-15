@@ -9,7 +9,7 @@ profile:
   image: IMG_9754_cropped.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1098 XH Science Park</p>
+    <p>Science Park, 1098 XH</p>
     <p>Amsterdam, The Netherlands</p>
 
 news: true # includes a list of news items
