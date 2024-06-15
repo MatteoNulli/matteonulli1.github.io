@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 💭 My research interests lie in bridging the gap between Vision and Language within AI systems. Multimodal models are capable of merging two of the most important aspects of how us humans learn and interact with the world around us. I strive to align the performance of Multimodal foundation models to that of LLMs.
 
-📚 Currently I am taking the [Foundation Models](https://uvafomo.github.io) and [Deep Learning 2](https://uvadl2c.github.io) course. 
+📚 Currently I am taking the [Foundation Models](https://uvafomo.github.io) and [Deep Learning 2](https://uvadl2c.github.io) courses. 
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
