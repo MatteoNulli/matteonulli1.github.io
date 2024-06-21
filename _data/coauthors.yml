@@ -33,6 +33,6 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"karim":
-  - firstname: ["Karim", "K. A.", "Karim Abdel Sadek", "Karim Abdel"]
+"sadek":
+  - firstname: ["Karim", "K. A.", "Karim Abdel"]
     url: https://karim-abdel.github.io
