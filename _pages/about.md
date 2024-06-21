@@ -7,7 +7,7 @@ subtitle: Student @ <a href='https://www.uva.nl'>University of Amsterdam</a>
 profile:
   align: right
   image: IMG_9754_cropped.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Science Park, 1098 XH</p>
     <p>Amsterdam, The Netherlands</p>
