@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I graduated from Bocconi University in [Mathematical and Computing Sciences for AI](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/bachelor+of+science/mathematical+and+computing+sciences+for+artificial+intelligence/mathematical+and+computing+sciences+for+artificial+intelligence/)! 🎓
+I graduated from Bocconi University and was among the first 9 graduates in the history of the course [Mathematical and Computing Sciences for AI](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/bachelor+of+science/mathematical+and+computing+sciences+for+artificial+intelligence/mathematical+and+computing+sciences+for+artificial+intelligence/)! 🎓
+

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-During my bachelors I joined the University of Sydney for a Semester abroad, taking a [Deep Learning](https://www.sydney.edu.au/units/COMP5329), [Stochastic Processes](https://www.sydney.edu.au/units/STAT3921) and [Big Data and Data Diversity](https://www.sydney.edu.au/units/DATA2901) courses 🏄
+During my bachelor's I was selected to join the University of Sydney for a full semester, taking [Deep Learning](https://www.sydney.edu.au/units/COMP5329), [Stochastic Processes](https://www.sydney.edu.au/units/STAT3921) and [Big Data and Data Diversity](https://www.sydney.edu.au/units/DATA2901) courses. I also loved surfing there 🏄
