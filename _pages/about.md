@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 
 📚 Currently I am taking the [Foundation Models](https://uvafomo.github.io) and [Deep Learning 2](https://uvadl2c.github.io) courses. 
 
-I am always open to head about possible research collaborations, feel free to [contact me](matteo.nulli@outlook.com).
+Always open to hear about possible research collaborations, feel free to reach out.
 
 
 <!-- 
