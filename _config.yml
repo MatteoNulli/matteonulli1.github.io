@@ -168,6 +168,7 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: "Vocabulary Reduction and Contrastive Decoding in Large Language Models"
     posts:
+      - title: "Optimizing Predictions: Vocabulary Reduction and Contrastive Decoding in Large Language Models"
       - url: https://github.com/joanvelja/Confidently_Exiting/blob/main/blogpost.md
         published_date: 2024-05-31
         category: "LLMs"
